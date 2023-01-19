@@ -1,0 +1,11 @@
+mkdir.foldername                            -->      using for add a new folder
+cd foldername                               -->      using for moving folder or file
+cd..                                        -->      using for backword folder
+python -m venv environmentname              -->      using for create virtual environment
+pip install django                          -->      using for install django
+django -admin startproject projectname      -->      using for making project
+python manage.py startapp appname           -->      using for making app
+python manage.py runserver                  -->      using for running the server
+python manage.py makemigration              -->      using for migrating
+python manage.py migrate                    -->      using for main command for migrating 
+python manage.py creatsuperuser             -->      using for creating superuser.
